@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carta para Ti</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #ffe4e1;
+            padding: 50px;
+        }
+        .carta {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+            max-width: 500px;
+        }
+    </style>
+</head>
+<body>
+    <div class="carta">
+        <h2>Querido/a [Nombre]</h2>
+        <p>Esta es una carta especial para ti. Quería decirte lo importante que eres y lo mucho que valoro tu presencia en mi vida.</p>
+        <p>Espero que este mensaje te haga sonreír.</p>
+        <p>Con cariño,</p>
+        <p><strong>[Tu Nombre]</strong></p>
+    </div>
+</body>
+</html>
